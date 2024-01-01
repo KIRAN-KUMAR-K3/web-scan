@@ -1,6 +1,6 @@
 # Web-Scan
 
-![Web-Scan](GoogleDorks.jpg)
+![Web-Scan](web-scan.png)
 
 <p align="center">
   <a href="https://github.com/KIRAN-KUMAR-K3"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
